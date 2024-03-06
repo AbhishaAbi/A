@@ -1,0 +1,1 @@
+An Online Java Compiler is a web-based tool that allows developers to write, compile, and execute Java code within a browser environment. It provides a virtual workspace where users can create, edit, and run Java programs without the complexities of setting up a local development environment.
